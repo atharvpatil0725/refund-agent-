@@ -2,12 +2,6 @@
 
 A fully functional AI-powered customer support agent that processes or denies e-commerce refunds using Claude's tool-calling (function calling) capabilities, built with Next.js 15.
 
-## 🎥 Demo Video
-[Link to Loom video — record after setup]
-
-## 🔗 Live Demo
-[Deploy to Vercel — link here]
-
 ---
 
 ## ✨ Features
