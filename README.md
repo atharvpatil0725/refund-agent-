@@ -1,4 +1,4 @@
-# ShopEase AI Customer Support Agent
+#  AI Customer Support Agent
 
 A fully functional AI-powered customer support agent that processes or denies e-commerce refunds using Claude's tool-calling (function calling) capabilities, built with Next.js 15.
 
